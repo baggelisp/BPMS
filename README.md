@@ -17,3 +17,16 @@ health monitoring application (server).
 2)αποθήκευση σε αρχείο των μετρήσεων που φαίνονται στην διεπαφή (save)
 3)φόρτωση μετρήσεων από αρχείο(load)
 4)διαγραφή μετρήσεων από την διεπαφή και από το book του server(delete all), όπως φαίνεται στις παραπάνω εικόνες.
+
+
+Εικόνες:
+
+
+Μετρήσεις:
+
+![alt text](https://github.com/baggelisp/BPMS/blob/master/1.jpg?raw=true)
+
+
+Γραφική Διεπαφή:
+
+![alt text](https://github.com/baggelisp/BPMS/blob/master/2.jpg?raw=true)
