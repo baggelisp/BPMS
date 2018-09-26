@@ -1,4 +1,4 @@
-Περιγραφή συστήματος:
+# Περιγραφή συστήματος:
 
 Το ΒΡΜ σύστημα αποτελείται από 3 μέρη:
 1)Server:Το μέρος το οποίο στέλνονται, αποθηκεύονται και γίνονται όλες οι λειτουργίες του συστήματος
@@ -19,14 +19,14 @@ health monitoring application (server).
 4)διαγραφή μετρήσεων από την διεπαφή και από το book του server(delete all), όπως φαίνεται στις παραπάνω εικόνες.
 
 
-Εικόνες:
+## Εικόνες:
 
 
-Μετρήσεις:
+### Μετρήσεις:
 
 ![alt text](https://github.com/baggelisp/BPMS/blob/master/1.jpg?raw=true)
 
 
-Γραφική Διεπαφή:
+### Γραφική Διεπαφή:
 
 ![alt text](https://github.com/baggelisp/BPMS/blob/master/2.jpg?raw=true)
